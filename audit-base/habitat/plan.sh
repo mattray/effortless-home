@@ -1,4 +1,4 @@
-pkg_name=effortless-ndnd-home
+pkg_name=effortless-audit-base
 pkg_origin=mattray
 pkg_version=0.1.9
 pkg_maintainer="Matt Ray"
