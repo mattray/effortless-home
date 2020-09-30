@@ -9,3 +9,4 @@ depends:
     git: https://github.com/dev-sec/linux-patch-baseline/
   - name: chef_software
     git: https://github.com/mattray/chef_software-profile/
+    branch: main
