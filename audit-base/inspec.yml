@@ -1,9 +1,11 @@
 name: effortless-audit-mattray
 title: Effortless Audits for Matt Ray's home lab
-version: 0.1.9
+version: 0.2.0
 
 depends:
   - name: uptime
     git: https://github.com/mattray/uptime-profile/
   - name: linux-patch-baseline
     git: https://github.com/dev-sec/linux-patch-baseline/
+  - name: chef_software
+    git: https://github.com/mattray/chef_software-profile/
